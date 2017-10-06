@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/activity_eee_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.example.kisha.skct.ItHome">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="30sp"
+            android:text="@string/ith1"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:id="@+id/textView69"/>
+
+        <ImageView
+            android:id="@+id/imageView41"
+            android:src="@drawable/ita"
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:layout_below="@+id/textView69">
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="@string/itt1"
+            android:layout_marginTop="15dp"
+            android:id="@+id/textView70"
+            android:layout_below="@+id/imageView41"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="20sp"
+            android:text="@string/ith2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="15dp"
+            android:textStyle="bold"
+            android:id="@+id/textView71"
+            android:layout_below="@+id/textView70"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="@string/itt2"
+            android:layout_marginTop="15dp"
+            android:id="@+id/textView72"
+            android:layout_below="@+id/textView71"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/quantum_ic_skip_previous_white_36"
+            android:layout_below="@+id/textView69"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="16dp"
+            android:id="@+id/imageView42" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/quantum_ic_skip_next_white_36"
+            android:layout_below="@+id/textView69"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="16dp"
+            android:id="@+id/imageView43" />
+
+    </RelativeLayout>
+</ScrollView>

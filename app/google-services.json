@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629922221450",
+    "firebase_url": "https://skct-1b2d0.firebaseio.com",
+    "project_id": "skct-1b2d0",
+    "storage_bucket": "skct-1b2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629922221450:android:7b9235ceb85dd737",
+        "android_client_info": {
+          "package_name": "com.example.kisha.skct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629922221450-ais4poi1m3fbcostasddhfbt3k6udmjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisha.skct",
+            "certificate_hash": "24BA1D63F6791EB67508F1B5037706197C03F9C8"
+          }
+        },
+        {
+          "client_id": "629922221450-g54vatfgs2t4k5tj5l0bh7emmoi6cti7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmqtIvTutQbzg0b-6fOqYLuEn9Z1_Bbck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629922221450-g54vatfgs2t4k5tj5l0bh7emmoi6cti7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

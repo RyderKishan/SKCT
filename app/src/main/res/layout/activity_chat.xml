@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_chat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kisha.skct.ChatActivity">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@+id/floatingActionButton5"
+        android:dividerHeight="16dp"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"
+        android:divider="@android:color/transparent"
+        android:id="@+id/list_of_messages"
+        android:layout_marginBottom="16dp"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="mini"
+        android:src="@drawable/ic_action_send"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/floatingActionButton5" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageView62"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/ic_action_attach" />
+
+    <android.support.design.widget.TextInputEditText
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@id/imageView62"
+        android:layout_toRightOf="@id/imageView62"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_toStartOf="@id/floatingActionButton5"
+        android:layout_toLeftOf="@id/floatingActionButton5"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_height="40dp"
+        android:id="@+id/inputEditText12"
+        android:inputType="textLongMessage"
+        android:hint="Message"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+
+        app:fabSize="mini"
+        android:src="@drawable/ic_action_voice"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@id/floatingActionButton5"
+        android:id="@+id/floatingActionButton6" />
+
+</RelativeLayout>

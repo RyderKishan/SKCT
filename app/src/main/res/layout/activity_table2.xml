@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_table"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.example.kisha.skct.Table">
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/s_no"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:text="@string/company_name"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:paddingLeft="5dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="@string/offers"
+                android:paddingLeft="5dp"
+                android:textStyle="bold"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/_1"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_amazon_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_3" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_2"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_owler_india_pvt_ltd_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_3" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_3"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_vuram_technology_solution_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_4"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_cognizant_technology_solutions_india_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_269" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_5"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_infosys_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_149" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_6"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_wipro_technologies_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_69" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_7"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_robert_bosch_ltd_bangalore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_8"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_hp_ltd_bangalore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_10" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_9"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_kgsil_ltd_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_20" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_10"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_sans_pareil_it_service_ltd_chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_3" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_11"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_aveon_ltd_ahmedabad"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_12"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_mydeal_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_9" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_13"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_qudra_system_ltd_bangalore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_14"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_face_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_15"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_bajaj_capital_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_16"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_idbi_federal_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_17"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_vasan_eye_care_coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_25" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="@string/_18"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="@string/m_s_yokogawa_india_ltd_bangalore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="@string/_1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="19"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Hyundai India Ltd., Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="20"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Pricol Ltd., Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="4" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="21"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Roots Industries India Ltd., Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="4" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="22"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. ACC Cements Ltd., Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="6" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="23"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Larsen and Toubro Ltd"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="24"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Jora Education, Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="25"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Zoho Technologies, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="26"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Verizon, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="27"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Tech Mahendra, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="26" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="28"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Aspire Systems, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="29"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Cyber Slash Support, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="76" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="30"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Aegon Religare, Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="31"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Aveon Infotech Pvt. Ltd., Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="32"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Asahi Glass Pvt.Ltd."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="33"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Wipro (PG Drive)"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="6" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="34"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Campus Images"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="35"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Sri Krishna I Tech"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="36"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="	M/s.Oracle"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="37"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Hindhuja Softech"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="38"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Hexaware Technologies, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="9" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="39"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Verticurl Marketing Pvt Ltd, Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="40"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Sutherland Technologies, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="41"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Wipro (PG Drive-Salem)"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="42"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Chain Sys, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="43"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Merit Software Services, Cochin"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="44"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Axis Global Automation, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="8" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="45"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Infoview"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="7" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="46"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Infosys,Bangalore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="47"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. HCL BPO, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="48"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s.Calydon"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="49"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. BGR Energy System, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="50"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. PG Shetty constructions, Coimbatore"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="51"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. CPLR tech,Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="52"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Image Infotainment, Chennai."
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="2" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="53"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Dell Business Solutions"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="54"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Ventura Omnitech Pvt Ltd"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="55"
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="M/s. Tata Consultancy Services, Chennai"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=""
+                android:layout_width="40dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:text="Total"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textStyle="bold"
+                android:text="765" />
+
+        </TableRow>
+
+    </TableLayout>
+</ScrollView>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/skct"
+            android:title="@string/login_to_skct" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="SKCT Chat"/>
+        <item
+            android:id="@+id/nav_departments"
+            android:icon="@drawable/ic_dept"
+            android:title="@string/departments" />
+        <item
+            android:id="@+id/nav_placements"
+            android:icon="@drawable/ic_placem"
+            android:title="@string/placements" />
+        <item
+            android:id="@+id/nav_facilities"
+            android:icon="@drawable/ic_facil"
+            android:title="@string/facilities" />
+
+        <item
+            android:id="@+id/nav_cug"
+            android:icon="@drawable/ic_cug"
+            android:title="@string/skct_cug" />
+        <item
+            android:id="@+id/nav_studentszone"
+            android:icon="@drawable/ic_talking"
+            android:title="@string/students_zone" />
+        <item
+            android:id="@+id/nav_skctnews"
+            android:icon="@drawable/ic_new"
+            android:title="SKCT News"/>
+        <item
+            android:id="@+id/nav_skctcalendar"
+            android:icon="@drawable/ic_calendar"
+            android:title="SKCT Calendar"/>
+        <item
+            android:id="@+id/nav_monthlyreport"
+            android:icon="@drawable/ic_newspaper"
+            android:title="@string/monthly_report" />
+
+        <item
+            android:id="@+id/nav_admission"
+            android:icon="@drawable/admission"
+            android:title="@string/admission" />
+        <item
+            android:id="@+id/nav_forms"
+            android:icon="@drawable/ic_form"
+            android:title="@string/forms" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_gall"
+            android:title="@string/gallery" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_about_us"
+            android:title="@string/management" />
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/contact"
+            android:title="@string/contact_us" />
+    </group>
+
+    <item android:title="@string/credits">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_developers"
+                android:icon="@drawable/developers"
+                android:title="@string/developers" />
+
+            <item
+                android:id="@+id/nav_update"
+                android:icon="@drawable/ic_refresh_button"
+                android:title="@string/update_app" />
+
+
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_thumbs"
+                android:title="@string/feedback" />
+        </menu>
+    </item>
+
+</menu>

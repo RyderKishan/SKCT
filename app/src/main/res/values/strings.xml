@@ -1,0 +1,372 @@
+<resources>
+    <string name="app_name">SKCT APP</string>
+    <string name="copy">© Kishan - Powered by globeking.in -</string>
+    <string name="hari">Haribalaji</string>
+    <string name="ram">Arvind Raam</string>
+    <string name="kisdet">"Ph no\t: 8903427534\ne - mail\t: kishan020696@gmail.com"</string>
+    <string name="hardet">"Ph no\t: 8681094882\ne - mail\t: haribalajiravi@gmail.com"</string>
+    <string name="ramdet">"Ph no\t: 9514955915\ne - mail\t: arvindraam.c.s@gmail.com"</string>
+
+    <!--images-->
+    <string name="img1">Main Page Image</string>
+
+    <!-- library-->
+    <string name="lh1">Central Library</string>
+    <string name="lt1">"The Central Library with excellent state of art infrastructure having unique resource collection which is international in scope. The SKCT Central Library is on its way to becoming an outstanding learning resource centre catering to the ever growing and uncompromising information and intellectual requirements of the students, faculty, and researchers.
+
+The SKCT Central Library strives for a high quality of library service, which emphasizes the actual delivery of information rather than the actual delivery of documents to meet the generic as well as specific needs of users. It has computerized all its housekeeping activities using Library software INSPROPLUS that is being maintained and updated regularly, which is connected to campus wide network. This enables users in searching and availing the library resources. It uses the state-of-the-art technology in its functioning and services."</string>
+    <string name="lh2">Vision</string>
+    <string name="lt2">"SKCT Central Library inspires intellectual curiosity, learning and serves as a catalyst for the growth of knowledge by building, maintaining and disseminating the information and knowledge resources in the field of engineering and related areas."</string>
+    <string name="lh3">Mission</string>
+    <string name="lt3">"To provide the right information to the right user at the right time in the right format through comprehensive high quality information resources and services in support of research, teaching and learning needs of the SKCT community."</string>
+    <string name="lh4">LIBRARIAN MESSAGE</string>
+    <string name="lt4">"Welcome to the online doorway of SKCT-Central Library. The Library has Periodical Section and Digital Library are air conditioned with excellent state-of-the art infrastructure having unique resource collection, which is international in scope that brings together, in one location, current and historical information on Engineering, Technology and management studies. Library is fully computerized with software and server that houses all electronic databases. The web based INSPROPLUS Library Software which is connected to the campus-wide network enables users to search for Library resources and also manage circulation related details.
+
+Further, the subscription of rich variety of electronic database such as NPTEL,, IEEE, ASCE,SPRINGER ,PROQUEST,online journals facilitate ease in finding data and ensures easy accessibility to the latest information on Engineering, Technology and Management research. The Library endeavours to provide services which most effectively and efficiently meet the needs of the SKCT community, academia, and industry."</string>
+
+
+    <!--main page-->
+    <string name="sk">SRI KRISHNA</string>
+    <string name="ct">College of Technology</string>
+    <string name="cda">kishanimage</string>
+    <string name="welcome">Welcome User!</string>
+    <string name="uname">Welcome user!</string>
+    <string name="placemen">"Mr. A. Saravanan plays a key role in the placements of SKCT. He has been both a guiding and an inspiring factor for our students. He has been working very strategically for the overall placements and has achieved it to a greater extent."</string>
+
+    <!--developers page-->
+    <string name="abt">The Developers</string>
+    <string name="exp">"\tWe the team of students from Computer Science Engineering Department (2014 – 2018 CSE A Batch) of Sri Krishna College of Technology took this as an initiative to develop an app for our college. The app comprises all the features and the information provided by our website - www.skct.edu.in. It provides the users a handy environment to access their portal anytime in their mobile phones. Students can use this app for academic purposes.\n\nThe team of people who developed www.globeking.in initiated the app"</string>
+    <string name="kishan">Balkishan</string>
+
+    <!--report page-->
+    <string name="monhead">Monthly Report</string>
+    <string name="aug15">August 2015</string>
+    <string name="jul15">July 2015</string>
+    <string name="jan16">January 2016</string>
+    <string name="info">Be online to view the report</string>
+
+
+    <!--forms page-->
+    <string name="form">Online Forms</string>
+    <string name="leave">Leave / OD Form</string>
+    <string name="out">Outpass</string>
+
+    <!--page heading-->
+    <string name="depthead">List of Departments</string>
+    <string name="plachead">SKCT - Placements</string>
+    <string name="fachead">Facilities</string>
+
+    <!--outpass-->
+    <string name="nm">Name</string>
+
+    <!-- cug -->
+    <string name="cug1">Administration</string>
+    <string name="cug2">Office Administration</string>
+    <string name="cug3">Civil Engineering</string>
+    <string name="cug4">Mechanical Engineering</string>
+    <string name="cug5">Electronics and Communication Engineering</string>
+    <string name="cug6">Electrical and Electronics Engineering</string>
+    <string name="cug7">Instrumentation and Control Engineering</string>
+    <string name="cug8">Computer Science and Engineering</string>
+    <string name="cug9">Information Technology</string>
+    <string name="cug10">Science and Humanities</string>
+    <string name="cug11">Master of Business Administration</string>
+    <string name="cug12">Master of Computer Applications</string>
+    <string name="cug13">Physical Education</string>
+    <string name="cug14">Placement and Training Cell</string>
+    <string name="cug15">Systems Administrator</string>
+    <string name="cug16">Library</string>
+    <string name="cug17">Suporting Staff</string>
+
+
+    <!--buttons-->
+    <string name="mb">MECH</string>
+    <string name="cb">CIVIL</string>
+    <string name="ecb">ECE</string>
+    <string name="eeb">EEE</string>
+    <string name="csb">CSE</string>
+    <string name="ib">IT</string>
+    <string name="icb">ICE</string>
+    <string name="sb">S and H</string>
+    <string name="placb">Placement Officer</string>
+    <string name="recut">Recuiters</string>
+    <string name="pab">Placements 2015</string>
+    <string name="pbb">Placements 2016</string>
+    <string name="infb">Library</string>
+    <string name="smartb">Smart Boards</string>
+    <string name="gymb">Gym</string>
+    <string name="audb">Auditorium</string>
+    <string name="foodb">Food Court</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- main page-->
+    <string name="h1">Our Mission</string>
+    <string name="h2">Quality Policy</string>
+    <string name="h3">About SKCT</string>
+    <string name="t1">"\t\tTo produce intellectual and technological giants, who endowed with unfathomable depths of inner strengths and unbounded technical skills, shall deliver the bounties of their knowledge for technological gains of the society and for the spiritual and emotional uplift of the mankind without any reservation whatsoever."</string>
+    <string name="t2">"\t\tTo produce quality engineers and managers, infused with positive values and spirit of continuous learning, by an education whose quality is assured by systematic monitoring and up-gradation of all aspects of teaching-learing process, continuous up-gradation of the human resources at all levels and regular updating of the infrastructure facilities."</string>
+    <string name="t3">"\t\tSri Krishna College of Technology (formerly V. L. B. Janakiammal College of Engineering and Technology) was instituted in the year 1985 by the V.L.B. Trust, a charitable organization founded by the great philanthropist and industrialist, late Sri.V.L.BalaKrishna Naidu. Late Sri.S.Vankatram, over two and half decades of tireless effort and guidance brought the college to its present preeminent position. The college is approved by AICTE,New Delhi and the UG programmes are accredited by NBA. All the courses are affiliated to Anna University,Chennai and Coimbatore. Housed in an area of 130 acres,the college campus is located at Kovaipudur situated on the eastern laps of the Western Ghats, 10 Km from Coimbatore city."</string>
+
+    <!--CSE home-->
+    <string name="cseh">Department of Computer Science and Engineering</string>
+    <string name="csec1">"\t\tThe Department of Computer Science and Engineering with its modern curriculum and syllabus has excelled in offering quality education to Students. Dr.A.Balamurugan HOD, with his rich academic experience along with a band of highly qualified and dedicated professionals leads the department. The department with its well defined infrastructure and computing facilities is ardent on the all round development of the students . With the department faculty engaged in research and development , students are exposed to the modern trends in the field of computer science and expand their intellectual horizons."</string>
+    <string name="ch1">Vision of the Computer Science and Engineering Programme</string>
+    <string name="cc1">The department of CSE fosters a conducive ambience which expands the intellectual horizons of the students by equipping them with modern trends in Computer Science and offers global excellence and relevance in research, teaching and technology development.</string>
+    <string name="ch2">Mission of the Computer Science and Engineering Programme</string>
+    <string name="cc2">"To provide quality academic environment that would help the students to acquire knowledge in computer science concepts
+\nTo motivate faculty to disseminate knowledge to different levels
+\nTo produce competent graduates who can develop algorithms and systems to the target groups"</string>
+    <string name="sll">2013 Regulations, Scheme and Syllabi</string>
+    <string name="sllb">Download Syllabus</string>
+    <string name="title_activity_management_home">SKCT Management</string>
+
+    <!-- mech -->
+    <string name="mch1">Department of Mechanical Engineering</string>
+    <string name="mch2">Courses Offered</string>
+    <string name="mct1">"\t\tIt has a Dynamic team of well qualified and industrially experienced faculty headed by Dr. N. Natarajan, giving importance to both theoritical and practicals and knowledge, encouraging the students to do application oriented projects. With its excellent facilities, the department is active in research in the areas like Welding, Material Characterization, Vibration, Optimization,Composite Materials etc. The department is recognized as a research centre by the University"</string>
+    <string name="mct2">"BE - MECHANICAL ENGINEERING\nME - ENGINEERING DESIGN"</string>
+
+    <!-- civil -->
+    <string name="cvh1">Department of Civil Engineering</string>
+    <string name="cvh2">Courses Offered</string>
+    <string name="cvt1">"\t\tDr. I. Padmanaban, HOD with a strong team of faculty provide the right academic atmosphere for the students to get developed into complete civil engineers with aptitude for research. The department is a recognized research center under Anna University of Technology, Coimbatore for PhD Programmes."</string>
+    <string name="cvt2">"BE Civil\nME Structural Engineering"</string>
+
+
+    <!-- Management home -->
+    <string name="mh1">Chairperson and Managing Trustee</string>
+    <string name="mh2">Trustee</string>
+    <string name="mh3">Advisor</string>
+    <string name="mh4">Chief Executive Officer (CEO)</string>
+    <string name="mh5">Principal</string>
+
+    <!-- ECE home-->
+    <string name="ech1">Department of Electronics and Communication Engineering</string>
+    <string name="ech2">Vision</string>
+    <string name="ech3">Mission</string>
+    <string name="ech4">Program Educational Objectives (PEOs)</string>
+    <string name="ech5">Courses Offered</string>
+
+    <string name="ect1">"\t\tThe Department of Electronics and Communication Engineering was established in the year 1985. The department offers undergraduate, postgraduate and PhD programmes and maintains state-of-art equipments in the laboratories with excellent computing facilities and CAD tools for the students.
+
+The department with a team of conscientious faculty members headed by Dr.R.Udaiyakumar HOD, who has both industrial and academics experience, interact closely with alumni in academics and leading industries in India, in order to make the programmes to meet the aspirations of different sectors.
+
+The department provides high end support to the faculty members for continuing their research work in different streams and it is recognized as a research centre under Anna University. The students are highly innovative and have won several prizes in national and international level contests. The department offers innovative approaches in teaching-learning like interactive white boards and encourages virtual learning in order to tap the potential and kindle the technical interests of the students.
+
+The department is identified as center of excellence in embedded systems Design and VLSI by Electronics Sector Skills council of India, New Delhi (ESSIC), The department of ECE has an MOU signed with UTL Technologies, Bangalore to maintain a bridge between Industry and Academia."</string>
+    <string name="ect2">"\t\tTo achieve excellent standards of quality education in Electronics and Communication Engineering through innovative teaching and learning tools and to create technical manpower of global standards with capabilities of accepting new challenges."</string>
+    <string name="ect3">"To impart quality education to meet the requirements of all stake-holders with the help of well qualified, experienced and passionate faculty resources
+To nurture competent professionals through extra and co-curricular activities
+To provide all possible support to promote research and development activities by setting up new research facilities and having enhanced industrial interaction"</string>
+    <string name="ect4">"\t\tTo educate graduates to apply the broad fundamental concepts of mathematics and science in electronics and communication engineering to enable them to be competent enough in their chosen careers.
+To train the students to innovatively design, simulate, develop, implement and test hardware and software components for offering solution to real life problems and also to train the graduates in demonstrating effective communication skills, the ability to work well either individually or as part of a team.
+To create an intellectual environment through Centers of Excellence in research and development oriented emerging technologies and impart intensive training to produce scientists, technocrats and business leaders"</string>
+    <string name="ect5">"BE ECE - Under Graduate
+ME APPLIED ELECTRONICS - Post Graduate"</string>
+
+
+    <!-- EEE Home -->
+    <string name="eeh1">Department of Electrical and Electronics Engineering</string>
+    <string name="eeh2">Vision</string>
+    <string name="eeh3">Mission</string>
+    <string name="eeh4">Programmes</string>
+    <string name="eeh5">Program Educational Objectives</string>
+    <string name="eeh6">Program Outcomes</string>
+    <string name="eeh7">BE EEE - 2013 Regulations, Scheme and Syllabi</string>
+    <string name="eeh8">ME PSE - 2013 Regulations, Scheme and Syllabi</string>
+
+    <string name="eet1">"\t\tThe department with a highly dedicated team of faculty members under the guidance of Dr.K.S.Chandragupta Mauryan HOD, steers the students to reach excellence in technical knowledge in the field of Electrical and Electronics. The department provide in-depth theoretical and practical expertise of budding Engineers. The laboratories are equipped with practical training and industrial interaction. The laboratories in the department reinforce the concepts of practical analysis allow the students to gain significant experience with electrical instruments."</string>
+    <string name="eet2">"\t\tTo provide high quality education in the challenging and changing fields of Electrical and Electronics Engineering, facilitating an atmosphere for research and innovation, forging faculty and students into competent professionals with integrity."</string>
+    <string name="eet3">"To impart theoretical knowledge to the students complemented with strong practical skills augmenting passion for continuous learning, research and innovation.
+To consistently update the curricula, infrastructure and academic resources to meet the global challenges through student centric learning methodologies.
+To foster students with a holistic personality, thus producing skilful engineers, committed to environment, society, safety and national economy."</string>
+    <string name="eet4">"BE EEE
+M.E Power System Engineering"</string>
+    <string name="eet5">"To educate students to have sound Electrical and Electronics Engineering fundamentals in the basic areas like Power Systems, Power Electronics, Electric Drives, Embedded Systems and Control Engineering.
+To prepare and train the students capable to design and conduct experiments, analyze and interpret data and effectively use modern technology in problem solving and research using appropriate mathematical and computational methodologies.
+To train the students to understand the necessities for professionalism, ethical responsibilities and to function in multidisciplinary teams having good communication and interpersonal skills and practice them.
+To prepare undergraduate students to become lifelong learners, innovators and socially responsible citizens, which would enable them to pursue higher studies and also to acquire entrepreneurial skills"</string>
+    <string name="eet6">"Graduates will have an ability to apply the knowledge of mathematics, science and engineering.
+Graduates are able to design and conduct experiments, as well as to analyze and interpret data.
+Graduates have an ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.
+Graduates are able to articulate teamwork principles, leadership principles and to work with a multi-disciplinary team.
+Graduates are able to identify, formulate to solve the engineering problems.
+Graduates understand the principles of ethical decision making and can interpret the BIS Code of Ethics also proper use of other works (e.g., plagiarism, copyrights, and patents).
+Graduates are able to produce engineering reports using written, oral and in a position to communicate their thoughts and ideas clearly and effectively. Graduates have a background in environment, social science and humanities that provides them with a foundation for understanding the impact of engineering solutions in a global and societal context.
+Graduates capable to engage in lifelong education.
+Graduates can explain basic concepts and problem solving processes used in business, public policy and business administration and management.
+Graduates have an ability to use the techniques, skills and modern engineering tools and software’s necessary for engineering practice.
+Graduates have an ability to understand the concepts, apply the knowledge to design, model and analyze the electrical systems based on state of art technology to cater to the industrial needs."</string>
+
+    <!-- IT Home -->
+
+    <string name="ith1">Department of Information Technology</string>
+    <string name="ith2">Courses Offered</string>
+    <string name="itt1">"\t\tThe Department of Information Technology headed by Dr.A.Jameer Basha HOD, and the team of dedicated faculty members with their committed service, train the students to be in the forefront of the realm of IT. Researchers, Defense agencies and Academicians associate with the department closely in both academics and the conduct of workshops and symposia. Industrial collaborations, research projects, and consultancy efforts are the hallmarks of the department."</string>
+    <string name="itt2">"B.TECH-IT"</string>
+
+    <!-- ICE home -->
+    <string name="ich1">Department of Instrumentation and Control Engineering</string>
+    <string name="ich2">Vision</string>
+    <string name="ich3">Mission</string>
+    <string name="ich4">Staff Achievements</string>
+
+    <string name="ict1">"\t\tThe Department of INSTRUMENTATION and CONTROL ENGINEERING was deep-rooted in the year 2011 with efficient team of faculty members leaded by Dr.P.Manju imparts excellent technical knowledge and high competency level to the students. The department alleviates the students to progress triple-crown careers and excel in their professions with social concern and ethical touchstone through excellence in teaching and research. Encourages students for thriving professional career and higher studies. To educate, groom and spring-up sure-handed professionals with international standards for the process industry workmanlike to handle colonial industry problems and provide real time solutions and develop competency. Since INSTRUMENTATION and CONTROL stream is a versatile choice it has a global necessitate for expertise instrumentation Engineers in the control and automation industries is increasing periodically. Students are exposed profoundly to the diverse fields like Industrial Instrumentation, Process Control systems design, PLCs, DCS, Industrial Drives and Controls, Virtual Instrumentation and Embedded Systems. The delegation of our department is not only to elevate engineers but also to empower spiritually to serve humanity."</string>
+    <string name="ict2">"\t\tTo become a world class school and center for excellence in instrumentation and control engineering for higher level learning research and consultancy."</string>
+    <string name="ict3">"Impart high quality education that comprehends student aspiration
+Create passion for learning foster innovation
+Endorse and nurture the talents serving the society."</string>
+    <string name="ict4">"Mr.G.Mohanakannan (2011-2015) batch has been made as Chairman for Tamil Mandram of Sri Krishna College of Technology,Coimbatore during the academic year 2013-2014.
+Dr. S. Muthu Vijaya Pandian are recognized as a supervisor for guiding Ph.D and M.S (By Research) scholars of Anna University, Chennai from February 2014.
+Ms.K.Shanthi, Published a book titled “Programmable Logic and Distributed Control Systems.” CBA Publishers, Chennai. 1st Edition 2014.
+Ms.K.Shanthi, Published a book titled “Computer Control of Process”, CBA Publishers, Chennai. 2nd Edition 2013.
+All Faculty Members of ICE Department have successfully completed the course in DCS and PLC OVERVIEW , conducted by the Technical School of Yokogawa India Ltd., Bangalore held during the period 04.02.2014 to 08.02.2014
+Mr.R.Ravi is a Life Member in
+1.“Instrument Society of India” (ISOI)
+2.“Indian Society for Technical Education” (ISTE)"</string>
+
+    <!-- S H Home -->
+    <string name="shh1">Department of Science and Humanities</string>
+    <string name="sht1">"\t\tThe Department provides strong technological skills in basic sciences and is headed by Dr.S.Palaniammal HOD, who has a rich teaching experience of 28 years in the same institution. The Department aims at training and developing the basic skills of the students which in turn facilitates the students in achieving academic excellence. Innovative teaching methodologies are incorporated into the curriculum so as to enhance the professionalism and employability of students.
+
+The Department is Anna university recognised research centre and it is striving to achieve pinnacles in research activities. More than 26 faculty members are pursuing their Ph.D in the Department. The department has produced three Ph.D and two M.Phil candidates. More than 100 research papers have been published in the National/International refereed journals.
+
+The Department regularly conducts Seminars, Conferences and Workshops on recent advancements in Mathematics, Physics and Chemistry funded by Government funding agencies like DRDO, BRNS, Ministry of Earth Sciences etc., for the benefit of the students.
+
+The Department provides a platform for the students to showcase their inherent talents and innovative ideas in basic sciences by conducting Science Exhibition, Science Quiz, Debate in science etc.,"</string>
+
+
+    <string name="mt1">"\t\tSmt. S. Malarvizhi, Chairperson and Managing Trustee, being an eminent educationalist by herself, brings in her rich experience. She leads and guides the college towards excellence in all spheres of academic and administrative activities. The institution grows with her vision."</string>
+    <string name="mt2">"\t\tOur Honorable Chairperson and Managing Trustee has been Nominated as the Syndicate Member of Anna University Chennai"</string>
+    <string name="mt3">"\t\tMr.C.R.Swaminathan, has more than four decades of experience in educational administration. He has to his credit an MBA degree and he plays an active role in various industrial and social organizations. He had held coveted positions as President SIEMA, CII and Indian Machine Tool Manufacturers'Association. Presently he is the Chairman in National Council-India institute of Foundrymen, President in COINDIA, RAAC and Cyber Society of India, Coimbatore chapter. He is a member of our Governing Council since inception and contributes richly through his wise counsel to the development of the college."</string>
+    <string name="mt4">"\t\tDr.S.Subramanyan, Former Vice-Chancellor, Bharathiar University, has an enormous experience in academics and administration. He has obtained his PG degree in Technology from Manchester, U.K. and PhD from the University of Madras. He was the registrar of Bharathiar University and Principal of PSG College of Technology. He has authored text books in Heat and Mass Transfer Data and CAD/CAM areas. He is also a Fellow of the institution of Engineers. His valuable and timely guidance are the undisputed reasons for the faster growth of the institution."</string>
+    <string name="mt5">"\t\tDr. K .Sundararaman M.Com, M.Phil., Ph.D. has 40 years of teaching experience as the Head of the Department of Commerce and also has 17 years of dynamic administrative experience in managing all the courses under self –financing stream in a reputed autonomous College in Coimbatore. He joined the college as Principal in the year 2005. He has published five books.His area of specialization is Quality Assurance in Higher Education."</string>
+    <string name="mt6">"\t\tDr. A. Ramesh, Principal has 23 years of teaching and research experience in the field of Mechanical Engineering. He obtained his doctoral degree from Bharathiar University, Coimbatore. He has guided PhDs, published research papers in reputed International Journals. He has received grants from Department of Science and Technology, Government of India, All India Council for Technical Education for his research works. He has also carried out consultancy work in the area of Metal Casting. He is a Managing Committee Member of SAE India Southern Section and has received Chairman Award for his contribution to SAE activities. Under his guidance students team has won many prizes at national level in the BAJA and SUPRA competitions conducted by SAE INDIA. He has also obtained patent for his work in the composite materials area."</string>
+    <string name="title_activity_login_home">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="mail">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="user">Name</string>
+    <string name="forgot">New User?</string>
+    <string name="sup">Sign Up</string>
+    <string name="newuser">"New User"</string>
+
+
+    <string name="admission">Admission</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="credits">Credits</string>
+    <string name="departments">Departments</string>
+    <string name="developers">Developers</string>
+    <string name="facilities">Facilities</string>
+    <string name="forms">Forms</string>
+    <string name="login_to_skct">Login to SKCT</string>
+    <string name="management">Management</string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="placements">Placements</string>
+    <string name="skct_cug">SKCT - CUG</string>
+    <string name="share">Share</string>
+    <string name="students_zone">Students Zone</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Contactus-->
+
+    <string name="cont1">Kovaipudur,Coimbatore - 641042</string>
+    <string name="cont2">"Phone\t: 2604567 – 70"</string>
+    <string name="cont3">"Mail  : info@skct.edu.in"</string>
+    <string name="cont4">"Web\t: www.skct.edu.in"</string>
+    <string name="cont5">"Web\t: www.srikrishna.ac.in"</string>
+
+
+    <!-- student zone -->
+    <string name="chat">SKCT CHAT</string>
+    <string name="globe">Globe King</string>
+    <string name="hai">Hai</string>
+    <string name="you_are_already_signed_in">You are already signed in!</string>
+    <string name="logout">LogOut</string>
+    <string name="roll_no">Roll No</string>
+    <string name="placement_officer">Placement Officer</string>
+    <string name="s_no">S.No</string>
+    <string name="company_name">Company Name</string>
+    <string name="offers">Offers</string>
+    <string name="_1">1</string>
+    <string name="m_s_amazon_ltd_chennai">M/s. Amazon Ltd., Chennai</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="m_s_owler_india_pvt_ltd_coimbatore">M/s. Owler India Pvt Ltd., Coimbatore.</string>
+    <string name="m_s_vuram_technology_solution_ltd_chennai">M/s. Vuram Technology Solution Ltd., Chennai</string>
+    <string name="_4">4</string>
+    <string name="m_s_cognizant_technology_solutions_india_ltd_chennai">M/s. Cognizant Technology Solutions India Ltd, Chennai</string>
+    <string name="_269">269</string>
+    <string name="_5">5</string>
+    <string name="m_s_infosys_ltd_chennai">M/s. INFOSYS Ltd., Chennai</string>
+    <string name="_149">149</string>
+    <string name="_6">6</string>
+    <string name="m_s_wipro_technologies_ltd_chennai">M/s. Wipro Technologies Ltd., Chennai</string>
+    <string name="_69">69</string>
+    <string name="_7">7</string>
+    <string name="m_s_robert_bosch_ltd_bangalore">M/s. Robert Bosch Ltd. Bangalore</string>
+    <string name="_8">8</string>
+    <string name="m_s_hp_ltd_bangalore">M/s. HP Ltd, Bangalore</string>
+    <string name="_10">10</string>
+    <string name="_9">9</string>
+    <string name="m_s_kgsil_ltd_coimbatore">M/s. KGSIL Ltd., Coimbatore</string>
+    <string name="_20">20</string>
+    <string name="m_s_sans_pareil_it_service_ltd_chennai">M/s. Sans Pareil IT Service Ltd., Chennai</string>
+    <string name="_11">11</string>
+    <string name="m_s_aveon_ltd_ahmedabad">M/s. AVEON Ltd, Ahmedabad.</string>
+    <string name="_12">12</string>
+    <string name="m_s_mydeal_coimbatore">M/s. MyDeal., Coimbatore</string>
+    <string name="_13">13</string>
+    <string name="m_s_qudra_system_ltd_bangalore">M/s. Qudra System Ltd., Bangalore</string>
+    <string name="_14">14</string>
+    <string name="m_s_face_coimbatore">M/s. FACE, Coimbatore</string>
+    <string name="_15">15</string>
+    <string name="m_s_bajaj_capital_coimbatore">M/s Bajaj Capital, Coimbatore</string>
+    <string name="_16">16</string>
+    <string name="m_s_idbi_federal_coimbatore">M/s. IDBI Federal, Coimbatore</string>
+    <string name="_17">17</string>
+    <string name="m_s_vasan_eye_care_coimbatore">M/s. Vasan Eye Care, Coimbatore</string>
+    <string name="_25">25</string>
+    <string name="_18">18</string>
+    <string name="m_s_yokogawa_india_ltd_bangalore">M/s. Yokogawa India Ltd., Bangalore</string>
+    <string name="pic_credits">Jennish Paulshiya - III CSE\nHarshini - II CSE\nSushaanth K - IV ECE\nTharun M - I Mech\nGuruvijey I - IT\nSibi M IV - Mech\nShankar M IV - ICE\nAdharsh Krishnan K - II CSE</string>
+    <string name="bg_support">Gokul Raj - III CSE\nBharath Raj - III CSE\nHaricharan - III CSE\nAkilesh - III CSE\nBalaji - III CSE\nPunith - III ICE</string>
+    <string name="gym_body">Life on campus helps the students to socialize with the peers. Rather than academics students have access to more diverse opportunity for physical fitness and recreations. With a spacious multistory layout and advanced user friendly equipments, the fitness centre will be a boom to blossoming development of healthy body and mind. It also excels with environmental standpoints. Strength training is the primary focus of this main campus gym. SKCT campus is well equipped with a wide range of free weights and aerobic equipments. Meditation rooms and traditional fitness facilities are also featured in this open, amazing fitness centre. The gym also incorporates devoting substantial space to hitech weight machines. It has been developed with environmental and efficient standards in minds. Ultimate aim of that is to build a sound mind.</string>
+    <string name="feedback">Feedback</string>
+    <string name="food_court">The campus provides the students all its amenities and facilities to enjoy the healthy food style within and around the campus. State of the art mess and food court is spread in a widely spacious area. The college adopts special measures to ensure that the campus housed students are provided with healthy and hygienic food.The dining service provides variety of meals for students,each of which is prepared by well-trained chefs. The students are provided with special meals on holidays and cultural celebrations. It favours both vegetarian and non-vegetarian students. A multi cuisine food court with wide features caters exclusively for the women students. Leading restaurents and other food chains also opened their outlets in the SKCT campus. The food court offers a pleasured and perfect place to meet up with the colleagues and to recharge in between the lessons.</string>
+    <string name="auditorium_text">The college auditorium is a fantastic location of the college which provides every student a vibrant opportunity to present their curricular activities with a solid platform. The SKCT campus possess a beautiful and modern auditorium, named \'VANKATRAM HALL\', amidst the fog filled range of hills. It is perhaps the biggest auditorium. The auditorium stands with its amazing environment.The auditorium is provided with centralized air conditions for the comfort of the occupants.Thousands of people can be seated.It has been provided with required sound systems, which can keep the audience involved in the events. It is equipped with a large stage,wide rooms,comfortable seating, carpeting and wall paneling for acoustic effects.It possess a digital video projectors for screening films. Various conferences of national and international reputes are conducted in the auditorium as well. The superior comforts have made many events successful.</string>
+    <string name="smartboard_text">Smart classroom meets the dynamic needs of today\'s digitally savvy students. The college favours the technology updates and every class owns a smart board teaching methodology, where the faculty can switch the teaching between a wide variety of media. The smart classroom provides a advanced resources for the students like embedded PDFs and files as appendices. The primary goal for using the smart boards is to make the students involve in the discussion. The smart classrooms are equipped with multimedia components designed to enhance the learning process.</string>
+    <string name="update_app">Update App</string>
+    <string name="gallery">Gallery</string>
+    <string name="time_line">Time Line</string>
+
+    <string-array name="years">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+    </string-array>
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="department">
+        <item>Mech</item>
+        <item>Civil</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ICE</item>
+    </string-array>
+
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

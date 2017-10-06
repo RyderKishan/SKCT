@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/imageView11"
+        android:src="@drawable/aa"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:text="Dr.A.Balamurugan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView11"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="6dp"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:id="@+id/textView90" />
+
+    <TextView
+        android:text="CUG No : 7402600150"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView90"
+        android:layout_toRightOf="@+id/imageView11"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:id="@+id/textView91" />
+
+
+</RelativeLayout>

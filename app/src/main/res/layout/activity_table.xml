@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_table"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kisha.skct.Table">
+
+    <TableRow>
+
+        <TextView
+            android:text="S.No"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Company Name"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Offers"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="1"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Soliton Technologies"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="2"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Zoho Corporation"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="3"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Amazon Inc Ltd"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="4"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Vuram Technolgies"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="5"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Infoview"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="34" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="6"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Wipro Technologies"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="201" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="7"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="CTS"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="240" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="8"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Infosys Technologies"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="129" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="9"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Tech Mahindra"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="7" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="10"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Robert Bosch (ME)"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="11"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="AIS Glass"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="12"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Robert Bosch (Engineering)"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="13"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="VWR Lab Products Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="14"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="American Mega Trends"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="15"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Jaro Education"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="16"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Oracle Corporation"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="9" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="17"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Vertex Solutions"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="18"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Redington Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="19"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Hyundai"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="20"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Torry Harris Business Solutions"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="4" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="21"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Wipro (MCA Drive)"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="22"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="IDBI Federal Insurance"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="18" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="23"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="CADeploy Ltd"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="24"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Multi Vision Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="25"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="HP Technologies Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="26"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Niche Hands"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="27"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Venus Software"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="28"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Catalyst Synergy Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="29"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Bright Star Educational Institution"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="5" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="30"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Sun Bio Pvt.Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="31"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="ChandraHyundai"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="32"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Aisswarya Groups"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="33"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Sri Krishna Information Tech.Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="34"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Granton Marekting Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="9" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="35"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="EPTech Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="35" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="36"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="HCL Talentcare"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="5" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="37"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Verticurl ltd.,"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="3" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="38"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="ILINK Ltd."
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="39"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Zoho Content Writing"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="1" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="40"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Mega Job Fair"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="58" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="41"
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Robert Bosch (Mechanical Engg.)"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="2" />
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text=""
+            android:layout_width="40dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:text="Total"
+            android:textStyle="bold"
+            android:paddingLeft="5dp"
+            android:layout_width="250dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:textStyle="bold"
+            android:text="804" />
+
+    </TableRow>
+
+
+</TableLayout>
+</ScrollView>
